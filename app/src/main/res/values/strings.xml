@@ -143,6 +143,4 @@
         <item name="android:layout_gravity">top</item>
     </style>
 
-
-    <item name="Location" type="id">Location</item>
 </resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ne"
+    style="@style/LinearMain">
+
+    <ImageView
+        android:id="@+id/image_lp"
+        style="@style/image" />
+
+    <LinearLayout
+        android:id="@+id/textContainer"
+        style="@style/LinearLayout">
+
+        <TextView
+            android:id="@+id/Location"
+            style="@style/Location" />
+
+        <TextView
+            android:id="@+id/Schedule"
+            style="@style/Schedule" />
+
+        <TextView
+            android:id="@+id/Price"
+            style="@style/Price" />
+
+        <TextView
+            android:id="@+id/Phone"
+            style="@style/Phone" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

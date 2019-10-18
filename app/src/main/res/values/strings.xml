@@ -1,0 +1,148 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Tours</string>
+    <string name="todo">TODO</string>
+    <string name="Egy">Egyptian Museum</string>
+    <string name="time">9AM–5PM</string>
+    <string name="price">Low</string>
+    <string name="num1">+02 25794596</string>
+    <string name="cairo">Cairo Citadel</string>
+    <string name="time1">8AM–5PM</string>
+    <string name="time2">6AM–10PM</string>
+    <string name="giza">Giza Necropolis</string>
+    <string name="num2">+02 25121735</string>
+    <string name="num3">+02 22312323</string>
+    <string name="church">The Hanging Church</string>
+    <string name="time3">9:00 am-5:00 pm</string>
+    <string name="free">free</string>
+    <string name="time6">9AM–3PM</string>
+    <string name="time4">24/7</string>
+    <string name="num4">+02 27190383</string>
+    <string name="moez">Al Moez Ldin Allah Al Fatmi</string>
+    <string name="na">N/A</string>
+    <string name="num5">+02 23916909</string>
+    <string name="abdeen">Abdeen Palace</string>
+    <string name="avg">Avg.</string>
+    <string name="high">High.</string>
+    <string name="InterContinental">InterContinental Cairo Semiramis</string>
+    <string name="num7">02 25808000</string>
+    <string name="num8">02 25750777</string>
+    <string name="num9">02 27917000</string>
+    <string name="num10">02 27980000</string>
+    <string name="num11">02 25777444</string>
+    <string name="num12">02 27988000</string>
+    <string name="conrad">Conrad Cairo</string>
+    <string name="Steigenberger">Steigenberger Hotel El Tahrir</string>
+    <string name="Four">Four Seasons Hotel Cairo at Nile Plaza</string>
+    <string name="Kempinski">Kempinski Nile Hote</string>
+    <string name="Hilton">Ramses Hilton</string>
+    <string name="res1">02 27988000</string>
+    <string name="res2">02 27373737</string>
+    <string name="res3">0128 091 2684</string>
+    <string name="res4">02 27988000</string>
+    <string name="res5">02 24619494</string>
+    <string name="res6">02 27373737</string>
+    <string name="sabtime">1PM–12AM</string>
+    <string name="Sabaya">Sabaya</string>
+    <string name="MOROCCANRESTAURANT">LA PALMERAIE MOROCCAN RESTAURANT</string>
+    <string name="morotime">7PM–12AM</string>
+    <string name="pacha">Le Pacha 1901</string>
+    <string name="bird">Birdcage</string>
+    <string name="pachatime">1PM–2AM</string>
+    <string name="birdtime">12AM–4PM,7PM–12AM</string>
+    <string name="saitime">6PM–1AM</string>
+    <string name="saigon"><![CDATA[Saigon Restaurant & Lounge]]></string>
+    <string name="kababtime">9:00 am-5:00 pm</string>
+    <string name="Kebabgy">Kebabgy</string>
+    <string name="mallnum1">02 35717803</string>
+    <string name="mall2num">02 24800500</string>
+    <string name="mall3num">0109 749 5303</string>
+    <string name="mallnum4">02 20820621</string>
+    <string name="mallnum5">02 26186000</string>
+    <string name="first">The First Mall</string>
+    <string name="malltime1">10AM–2AM</string>
+    <string name="malltime2">9AM–2AM</string>
+    <string name="malltime3">10AM–12AM</string>
+    <string name="malltime5">11AM–12AM</string>
+    <string name="malltime6">10AM–12AM</string>
+    <string name="citycenter">Cairo City Centre</string>
+    <string name="citystars">City stars center</string>
+    <string name="jody">Jodyshop Shopping</string>
+    <string name="genena">Genena Mall</string>
+    <string name="cairofest">Cairo Festival City Mall</string>
+    <string name="Attraction">Attractions</string>
+    <string name="Resturants">Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="shops">Shops</string>
+
+    <style name="Location">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">Location:</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="Price">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">Price:</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="Schedule">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">Schedule:</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="Phone">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">Phone:</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="LinearLayout">
+        <item name="android:layout_width">187dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="image">
+        <item name="android:layout_height">165dp</item>
+        <item name="android:layout_width">392dp</item>
+    </style>
+    <style name="LinearMain">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">16dp</item>
+    </style>
+    <style name="vpager">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="sliding">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">49dp</item>
+        <item name="android:layout_gravity">top</item>
+    </style>
+
+
+    <item name="Location" type="id">Location</item>
+</resources>
